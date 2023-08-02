@@ -1,6 +1,3 @@
-- - 👀 I’m interested in movies, games, art
-- 🌱 I’m currently learning Kubernetes and python
-
 Hi there! 👋 I'm @alex-g-tejada
 Welcome to my GitHub profile! I'm passionate about coding, containerization, and building projects that solve real-world problems. Here, you'll find a glimpse of my coding journey, projects, and interests.
 
